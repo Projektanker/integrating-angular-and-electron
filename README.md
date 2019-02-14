@@ -1,5 +1,14 @@
 # Integrating Angular and Electron
 
+- [Integrating Angular and Electron](#integrating-angular-and-electron)
+  - [Structure](#structure)
+  - [Create the Angular App](#create-the-angular-app)
+  - [Create the Electron App](#create-the-electron-app)
+  - [Integrating the Angluar App inside the Electron App](#integrating-the-angluar-app-inside-the-electron-app)
+  - [Running the app](#running-the-app)
+  - [Get access to electron APIs from within your Angular app](#get-access-to-electron-apis-from-within-your-angular-app)
+  - [To do:](#to-do)
+
 ## Structure
 
 I'm using the following folder structure
